@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<!-- cars.xml
+     Written by Kyle Mason
+     Assignment #6 for COP2840
+     Date: 3/15/2017
+    -->
+
+
+<cars>
+  <car>
+    <make>Volkswagen</make>
+    <model>Passat</model>
+    <year>2003</year>
+    <color>Silver</color>
+    <engine>
+      <number_of_cylinders>4</number_of_cylinders>
+      <fuel_system>Gas</fuel_system>
+    </engine>
+    <number_of_doors>4</number_of_doors>
+    <transmission_type>Automatic</transmission_type>
+    <accessories>
+      <radio>yes</radio>
+      <air_conditioning>yes</air_conditioning>
+      <power_windows>yes</power_windows>
+      <power_brakes>yes</power_brakes>
+    </accessories>
+  </car>
+
+  <car>
+    <make>Land Rover</make>
+    <model>Range Rover</model>
+    <year>2008</year>
+    <color>Black</color>
+    <engine>
+      <number_of_cylinders>6</number_of_cylinders>
+      <fuel_system>Gas</fuel_system>
+    </engine>
+    <number_of_doors>4</number_of_doors>
+    <transmission_type>Automatic</transmission_type>
+    <accessories>
+      <radio>yes</radio>
+      <air_conditioning>yes</air_conditioning>
+      <power_windows>yes</power_windows>
+      <power_brakes>yes</power_brakes>
+    </accessories>
+  </car>
+
+  <car>
+    <make>Nissan</make>
+    <model>GTR</model>
+    <year>2017</year>
+    <color>White</color>
+    <engine>
+      <number_of_cylinders>6</number_of_cylinders>
+      <fuel_system>Gas</fuel_system>
+    </engine>
+    <number_of_doors>2</number_of_doors>
+    <transmission_type>Automatic</transmission_type>
+    <accessories>
+      <radio>yes</radio>
+      <air_conditioning>yes</air_conditioning>
+      <power_windows>yes</power_windows>
+      <power_brakes>yes</power_brakes>
+    </accessories>
+  </car>
+</cars>

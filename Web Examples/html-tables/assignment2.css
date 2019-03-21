@@ -1,0 +1,9 @@
+﻿thead{ font-size:20px; }
+td { text-align: center; }
+td.alabama{font-family:'Arial Rounded MT'; font-weight:bold; font-style:italic; color:red}
+td.lsu{font-family:'Arial Rounded MT';  font-weight:bold; font-style:italic; color:gold}
+td.olemiss{font-family:'Arial Rounded MT';  font-weight:bold; font-style:italic; color:firebrick}
+td.tennessee{font-family:'Arial Rounded MT';  font-weight:bold; font-style:italic; color:orange}
+td.florida{font-family:'Arial Rounded MT';  font-weight:bold; font-style:italic; color:blue}
+td.auburn{font-family:'Arial Rounded MT';  font-weight:bold; font-style:italic; color:orangered}
+td.win{font-size:24px; color:red}
